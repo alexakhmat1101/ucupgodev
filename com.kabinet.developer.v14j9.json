@@ -1,0 +1,51 @@
+{
+    "redirect":
+	[
+        {
+		"url_utama": "https://google.com",
+
+
+        "inter_count": 2,
+		"enable_mp3": false,
+		"enable_strap": true,
+		"enable_strap_Splah": true,
+		"ads_on_exit_dialog": true,
+
+		"enable_Share_button": false,
+		"Share_TXT": "Supperr APPS Download Now",
+
+		"pengaturan_iklan": "1",
+		"json_popup_wait" : "Ready . . . .",
+
+
+		"exit_popup_dialog":
+		"Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+		"rate_button" : "Rate 5 Stars",
+		"later_button" : "Rate Later",
+		"more_button" : "Share Via WhatsApp",
+		"url_more_apps": "https://play.google.com/store/apps/developer?id=WhatsApp+Inc.",
+
+
+		"startapp": "12345",
+
+        "appid": "pub-3940256099942544 salah",
+        "admobappid": "ca-app-pub-3940256099942544~3347511713 salah",
+		"bannerid": "ca-app-pub-3940256099942544/6300978111 salah",
+		"interid": "ca-app-pub-3940256099942544/1033173712 salah",
+		"nativeid": "ca-app-pub-3940256099942544/2247696110 salah",
+
+		"hpk_alien": "kuota data 30gb",
+		"hpkadmob1": "Kuota Data",
+		"hpkadmob2": "Bank Jenius",
+		"hpkadmob3": "Simpati",
+		"hpkadmob4": "Telkomsel",
+		"hpkadmob5": "Donasi",
+
+
+		"fan_inter": "1345_12345",
+		"fan_banner": "1345_12345",
+		"fan_native": "1345_12345"
+
+		}
+    ]
+}
